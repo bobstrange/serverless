@@ -9,6 +9,7 @@
     "sourceMap": true,
     "target": "ESNext",
     "outDir": "lib"
+    "strict": true,
   },
   "include": ["src/**/*.ts"],
   "exclude": [
