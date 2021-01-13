@@ -72,7 +72,7 @@ The project code base is mainly located within the `src` folder. This folder is 
 │   │
 │   └── libs                 # Lambda shared code
 │       └── apiGateway.ts    # API Gateway specific helpers
-│
+│       └── lambda.ts        # Middy specific helpers
 ├── package.json
 ├── serverless.ts            # Serverless service file
 ├── tsconfig.json            # Typescript compiler configuration
